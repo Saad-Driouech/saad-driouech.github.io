@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Saad_Driouech_CV.pdf
