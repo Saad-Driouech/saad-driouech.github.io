@@ -275,7 +275,7 @@ export default function ThesisPage() {
                 title: "Parallel Control Branch",
                 badge: "Full-scale",
                 badgeColor: "bg-[rgba(124,106,247,.15)] text-accent border border-[rgba(124,106,247,.25)]",
-                desc: "A full copy of the SWITTI backbone runs in parallel, processing the control image and injecting control features via zero-initialized convolutions — the same design principle that made ControlNet work, reimagined for next-scale autoregressive generation.",
+                desc: "A full copy of the SWITTI backbone runs in parallel, processing the control image and injecting control features via zero-initialized linear layers — the same design principle that made ControlNet work, reimagined for next-scale autoregressive generation.",
                 tags: [
                   { label: "ControlNet-style", variant: "purple" as const },
                   { label: "~2.5B trainable", variant: "cyan" as const },
