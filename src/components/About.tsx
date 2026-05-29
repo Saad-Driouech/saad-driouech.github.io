@@ -47,17 +47,19 @@ export default function About() {
             <div className="space-y-4 text-muted">
               <p>
                 I&apos;m a Machine Learning Engineer with a research background in
-                generative AI, NLP, and applied ML. Currently pursuing my M.Sc.
-                in Artificial Intelligence at Friedrich-Alexander-Universität
+                generative AI, NLP, and applied ML. Currently completing my
+                M.Sc. in Artificial Intelligence at Friedrich-Alexander-Universität
                 Erlangen-Nürnberg (grade 1.2, top 1%), while working as a
                 Generative AI Research Engineer at Fraunhofer IIS.
               </p>
               <p>
-                My work spans the full spectrum: training diffusion models for
-                signal reconstruction, pre-training transformer language models
-                for low-resource languages, building production RAG systems, and
-                designing agentic LLM pipelines. I care deeply about rigorous
-                experimentation and shipping systems that actually work.
+                My M.Sc. thesis introduced the first spatial control framework
+                for scale-wise autoregressive T2I generation: a ControlNet-style
+                architecture over a frozen 2.5B-parameter backbone, six control
+                modalities, and a unified model with learned modality routing.
+                My work spans diffusion models for signal reconstruction,
+                transformer pre-training for low-resource NLP, production RAG
+                systems, and agentic LLM pipelines.
               </p>
               <p>
                 I have 5 peer-reviewed publications across NLP, TTS, and applied

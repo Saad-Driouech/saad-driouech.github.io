@@ -59,10 +59,12 @@ export default function Hero() {
             </p>
 
             <p className="text-muted text-[1.05rem] max-w-[520px] mb-9 leading-[1.75]">
-              Machine Learning Engineer bridging research and production: from
-              training diffusion models and pre-training transformers to building
-              RAG pipelines, agentic systems, and end-to-end ML automation. 5
-              peer-reviewed publications. Based in Fürth, Germany.
+              Machine Learning Engineer with a research background in generative
+              AI and applied ML. M.Sc. thesis introduced the first spatial
+              control framework for scale-wise autoregressive T2I generation.
+              Experience spans diffusion models, autoregressive generation, RAG
+              pipelines, and AI automation. 5 peer-reviewed publications. Based
+              in Fürth, Germany.
             </p>
 
             <div className="flex flex-wrap gap-3 mb-10 hero-cta">

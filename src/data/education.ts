@@ -14,7 +14,7 @@ export const education: Education[] = [
     badge: "Grade 1.2 · Top 1%",
     period: "Oct 2023 — May 2026",
     description:
-      "Thesis: Spatial Control Mechanisms for Scale-Wise Transformers (SWITTI). ViT-based spatial encoder with cross-attention conditioning for autoregressive image generation.",
+      "Thesis: Finetuning Visual Autoregressive Models for Controllable Image Generation. First spatial control framework for scale-wise autoregressive T2I generation — ControlNet-style architecture over a frozen 2.5B-parameter SWITTI backbone, six control modalities, unified model with learned modality routing.",
     courses: ["Pattern Recognition", "ML for Time Series", "Advanced Programming"],
   },
   {
